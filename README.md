@@ -1,2 +1,2 @@
 # EE322
-Engineering Design VII
+Engineering Design VI
