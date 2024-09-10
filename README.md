@@ -3,7 +3,7 @@
 
 ### Welcome to my GitHub for Design 6
 This is my **first time** using Github so I am excited to *learn* about it this semester! As Kevin Lu said in class, > "Never stop learning"
-![I already learned that the Github logo is an Octocat](https://images.app.goo.gl/wynBenfwdKr1buXw7)
+![I already learned that the Github logo is an Octocat](https://images.app.goo.gl/b33yuvTHGkypijTb6)
 
 What I hope to learn this semester:
 1. Raspberry Pi
@@ -17,9 +17,7 @@ What I hope to learn this semester:
 - I am considering doing AMP
 - I am on the powerlifting team
 - I like to cook
-- Visit my [LinkedIn](www.linkedin.com/in/abigailizzo)
+- Visit my [LinkedIn](https://www.linkedin.com/in/abigailizzo)
 
 Here is me quoting code: `code`
-
----
   
