@@ -2,15 +2,15 @@
 ## Engineering Design VI
 
 ### Welcome to my GitHub for Design 6
-![Github logo: Octocat](GitHub.png)
+![GitHub logo: Octocat](GitHub.png)
 
-This is my **first time** using Github so I am excited to *learn* about it this semester!
+This is my **first time** using GitHub so I am excited to *learn* about it this semester!
 As Kevin Lu says, 
 > "Make lifelong learning an everyday habit"
 
 What I hope to learn this semester:
 1. Raspberry Pi
-2. Github
+2. GitHub
 3. Python
 4. IoT
 
@@ -21,5 +21,5 @@ What I hope to learn this semester:
 - I am on the powerlifting team
 - I like to cook
 - Visit my [LinkedIn](https://www.linkedin.com/in/abigailizzo)
-- I now know how to quote code on Github: `code`
+- I now know how to quote code on GitHub: `code`
   
