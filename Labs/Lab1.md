@@ -2,15 +2,17 @@
 
 ## Half Adder
 
-![image](images/HalfAdderTerminal.png)
-![image](images/HalfAdder.png)
+![image](Images/HalfAdderTerminal.png)
+![image](Images/HalfAdder.png)
+
 
 ## D Flip-Flop
 
-![image](images/DFlipFlopTerminal.png)
-![image](images/DFlipFlop.png)
+![image](Images/DFlipFlopTerminal.png)
+![image](Images/DFlipFlop.png)
+
 
 ## 4-to-1 Multiplexer
 
-![image](images/4to1MultiplexerTerminal.png)
-![image](images/4to1Multiplexer.png)
+![image](Images/4to1MultiplexerTerminal.png)
+![image](Images/4to1Multiplexer.png)
