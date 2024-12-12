@@ -28,3 +28,7 @@
 
 ## nano file
 ![image](Images/nanoFile.png)
+
+---
+# I got a raspberry pi and redid the lab using the raspberry pi:
+
