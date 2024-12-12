@@ -31,4 +31,8 @@
 
 ---
 # I got a raspberry pi and redid the lab using the raspberry pi:
-
+![image](Images/1_lab2.png)
+![image](Images/2_lab2_env.png)
+![image](Images/3_lab2.png)
+![image](Images/4_lab2.png)
+![image](Images/5_lab2.png)
