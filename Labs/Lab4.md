@@ -14,3 +14,6 @@ For some reason, sudo does not work on my laptop. Removing the command sudo work
 ![image](Images/lab4_5.png)
 
 ![image](Images/lab4_6.png)
+
+## Updated settings
+![image](Images/lab4_7_nanoFile.png)
