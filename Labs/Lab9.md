@@ -8,5 +8,5 @@
 
 ![image](Images/Lab9_4.png)
 
-I tried a lot of different commands but I could not get it to download pyang for some reason.
+I tried a lot of different commands but I could not download pyang for some reason.
 ![image](Images/Lab9_5.png)
