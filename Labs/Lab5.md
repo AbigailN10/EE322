@@ -31,7 +31,7 @@ I keep getting this error. Looking on the internet, it seems that 'CallbackAPIVe
 ## I redid it on my boyfriend's computer and for some reason it worked on his.
 ![image](Images/Lab6_13.png)
 
-## sub.py and pub.py
+## sub.py
 ![image](Images/Lab6_12.png)
 
 ## sub_multiple.py and pub_multipl.py
