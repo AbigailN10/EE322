@@ -5,6 +5,7 @@ I first tried doing the lab in Windows Power Shell. I installed Paho, but then l
 ![image](Images/Lab5_1.png)
 ![image](Images/Lab5_2.png)
 
+---
 ## Install Mosquito
 I then switched to the raspberry pi
 ![image](Images/Lab5_3.png)
@@ -28,6 +29,7 @@ I keep getting this error. Looking on the internet, it seems that 'CallbackAPIVe
 
 ![image](Images/Lab5_10.png)
 
+---
 ## I redid it on my boyfriend's computer and for some reason it worked on his.
 ![image](Images/Lab6_12.png)
 
