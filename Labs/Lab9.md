@@ -1,9 +1,9 @@
 # Lab9 - Yang
 
-![image](Images/lab9_1.png)
+![image](Images/Lab9_1.png)
 
-![image](Images/lab9_2.png)
+![image](Images/Lab9_2.png)
 
-![image](Images/lab9_3.png)
+![image](Images/Lab9_3.png)
 
-![image](Images/lab9_4.png)
+![image](Images/Lab9_4.png)
