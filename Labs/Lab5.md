@@ -29,10 +29,10 @@ I keep getting this error. Looking on the internet, it seems that 'CallbackAPIVe
 ![image](Images/Lab5_10.png)
 
 ## I redid it on my boyfriend's computer and for some reason it worked on his.
-![image](Images/Lab6_13.png)
+![image](Images/Lab6_12.png)
 
 ## sub.py
-![image](Images/Lab6_12.png)
+![image](Images/Lab6_13.png)
 
 ## sub_multiple.py and pub_multipl.py
 ![image](Images/Lab6_14.png)
