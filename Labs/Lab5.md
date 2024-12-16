@@ -21,3 +21,8 @@ I then switched to the raspberry pi
 ![image](Images/Lab5_8.png)
 
 ![image](Images/Lab5_9.png)
+
+## sub.py, sub_multiple.py, subcpu.py
+I keep getting this error. Looking on the internet, it seems that 'CallbackAPIVersion' is not an official attribut in Paho. I am unsure how to resolve this.
+
+![image](Images/Lab5_10.png)
