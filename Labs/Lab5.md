@@ -13,6 +13,7 @@ I then switched to the raspberry pi
 
 ![image](Images/Lab5_5.png)
 
+![image](Images/Lab5_5.png)
 ![image](Images/Lab5_6.png)
 
 ![image](Images/Lab5_7.png)
@@ -26,3 +27,10 @@ I then switched to the raspberry pi
 I keep getting this error. Looking on the internet, it seems that 'CallbackAPIVersion' is not an official attribut in Paho. I am unsure how to resolve this.
 
 ![image](Images/Lab5_10.png)
+
+## I redid it on my boyfriend's computer and for some reason it worked on his.
+![image](Images/Lab6_11.png)
+![image](Images/Lab6_12.png)
+![image](Images/Lab6_13.png)
+![image](Images/Lab6_14.png)
+![image](Images/Lab6_15.png)
