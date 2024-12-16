@@ -21,4 +21,4 @@
 ## Pystache 
 ![image](Images/Lab6_8.png)
 
-I'm not sure why pystache did not run. I will try to update pip later. 
+I'm not sure why pystache did not run when I had installed pystache.
